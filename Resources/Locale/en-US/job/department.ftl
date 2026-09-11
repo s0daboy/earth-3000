@@ -1,13 +1,13 @@
-department-Cargo = Cargo
-department-Civilian = Civilian
-department-Command = Command
-department-CentralCommand = Central Command
-department-Engineering = Engineering
-department-Medical = Medical
-department-Science = Science
-department-Security = Security
-department-Service = Service
+department-Cargo = Merchant
+department-Civilian = Commoner
+department-Command = Noble
+department-CentralCommand = Imperial
+department-Engineering = Artisan
+department-Medical = Alchemy
+department-Science = Church
+department-Security = Army
+department-Service = Servant
 department-Silicon = Silicon
-department-Specific = Station specific
+department-Specific = Town specific
 
 department-Unknown = Unknown
