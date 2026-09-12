@@ -108,7 +108,7 @@
     - state:
       map: [ "enum.FaxMachineVisuals.VisualState" ]
   - type: FaxMachine
-    name: "Central Command"
+    name: "Imperial Court"
     notifyAdmins: true
 
 - type: entity
