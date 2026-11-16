@@ -1,17 +1,17 @@
-cargo-gifts-event-announcement = Congratulations! { $sender } has decided to send { $description } to the station { $dest }. Look for it in your next cargo shipment.
+cargo-gifts-event-announcement = Congratulations! { $sender } has graciously sent { $description } to the { $dest } of this domain. It will arrive in the next caravan from the Capital.
 cargo-gift-default-description = A bundle of gifts
-cargo-gift-default-sender = NanoTrasen
+cargo-gift-default-sender = The Empire
 cargo-gift-default-dest = Cargo Dept.
 
-cargo-gift-dest-bar = bar
-cargo-gift-dest-eng = Engineering Dept
-cargo-gift-dest-supp = Cargo Dept
-cargo-gift-dest-janitor = Service Dept
-cargo-gift-dest-med = Medical Dept
-cargo-gift-dest-sec = Security Dept
+cargo-gift-dest-bar = people
+cargo-gift-dest-eng = Artisans
+cargo-gift-dest-supp = Merchants
+cargo-gift-dest-janitor = Servants
+cargo-gift-dest-med = Alchemists
+cargo-gift-dest-sec = Soldiers
 
-cargo-gift-pizza-small = A small pizza party
-cargo-gift-pizza-large = A large pizza party
+cargo-gift-pizza-small = a small feast
+cargo-gift-pizza-large = a large feast
 
 cargo-gift-eng = Repair Materials
 cargo-gift-vending = Vending machines refills

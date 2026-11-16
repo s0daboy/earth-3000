@@ -59,7 +59,7 @@ highlights-passenger = Passenger, Greyshirt, Grayshirt, Greytider, Graytider, Ti
 highlights-visitor = Visitor, Civilian, Civie, Civvie, Civvy
 
 # Central Command
-highlights-centralcommandofficial = Central Command Official, "Official", "Central Command", CentCom, CentComm, "CC"
+highlights-centralcommandofficial = Imperial Court Official, "Official", "Imperial Court", CentCom, CentComm, "CC"
 highlights-cburn = CBURN
 highlights-deathsquad = Death Squad, Deathsquad
 highlights-ertleader = Leader, "ERT", "Emergency Response Team"

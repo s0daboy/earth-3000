@@ -39,5 +39,5 @@ emergency-shuttle-ui-authorizations = Authorizations
 emergency-shuttle-ui-remaining = Remaining: {$remaining}
 
 # Map Misc.
-map-name-centcomm = Central Command
+map-name-centcomm = Imperial Court
 map-name-terminal = Arrivals Terminal
